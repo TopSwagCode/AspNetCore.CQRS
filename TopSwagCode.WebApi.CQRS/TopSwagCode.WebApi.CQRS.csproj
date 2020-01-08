@@ -12,12 +12,5 @@
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.5" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Domain\Artifactory\Commands\" />
-    <Folder Include="Domain\Artifactory\Queries\" />
-    <Folder Include="Domain\User\Commands\" />
-    <Folder Include="Domain\User\Queries\" />
-  </ItemGroup>
-
 
 </Project>
