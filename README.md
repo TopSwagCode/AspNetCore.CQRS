@@ -1,4 +1,4 @@
-# TopSwagCode.WebApi.CQRS
+# AspNetCore.CQRS
 
 Small sample project for CQRS using WebAPI and MediatR
 
